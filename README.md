@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Agent2908
-- 👀 I’m interested in Frontend Developement
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning JS, React, Node.
 - 💞️ I’m looking to collaborate on Freelance Projects
 - 📫 How to reach me vannalwar.tejas@gmail.com
